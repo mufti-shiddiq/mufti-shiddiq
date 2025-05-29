@@ -19,5 +19,3 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mufti-shiddiq&" alt="mufti-shiddiq" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.innovexa.co.id/api?username=mufti-shiddiq&show_icons=true&locale=en" alt="mufti-shiddiq" /></p>
-
-<p><img align="left" src="https://github-readme-stats.innovexa.co.id/api/top-langs?username=mufti-shiddiq&show_icons=true&locale=en&layout=compact" alt="mufti-shiddiq" /></p>
